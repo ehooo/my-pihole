@@ -3,6 +3,10 @@ cdntrans.konograma.com
 hbbtv.rtve.es
 hbbtvloves.mediaset.es
 mpe0404.bitv.eu
+mpe0101.bitv.eu
+cpmdaws.bitv.eu
+campanasmd.bitv.eu
+recursoshbbtvs3.bitv.eu
 apps-pub.samsungcloudcdn.com
 appstmira.eu
 cerespluspro.mediaset.es
@@ -50,3 +54,7 @@ static.critizr.com
 gos-api.gos-gsp.io
 astelus.com
 cdn.images.express.co.uk
+hbbtv-csur.interactvty.com
+hbbtv.rtve.es
+marker.data.rtve.es
+b.scorecardresearch.com
