@@ -59,3 +59,4 @@ hbbtv-csur.interactvty.com
 hbbtv.rtve.es
 marker.data.rtve.es
 b.scorecardresearch.com
+trfc.thebassbite.com
